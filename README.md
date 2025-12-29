@@ -25,8 +25,8 @@ A **Smart Walker** that assists elderly individuals and rehabilitating patients 
 - **Haptic & Visual Feedback** to guide the user on how to adjust their walking
 
 <p float="left">
-  <img src="others/pictures/FullWalker_assembly.jpeg" width="300" />
-  <img src="others/pictures/wiring.jpeg" width="500" />
+  <img src="FullWalker_assembly.jpeg" width="300" />
+  <img src="wiring.jpeg" width="500" />
 </p>
 
 
