@@ -1,8 +1,5 @@
 
 
-![Docs Added](https://github.com/edl-iitb/edl-25-project-submission-edl25_tue20/actions/workflows/classroom.yml/badge.svg)
-<!-- Modify from here -->
-
 ## Project Overview
 
 ### Project Name: Smart Walker for Clinical Rehabilitation
